@@ -1,0 +1,27 @@
+body{
+   background-color: rgb(101, 9, 9);
+   font-family: Arial, Helvetica, sans-serif;
+
+   
+}
+h2{
+    color: rgb(37, 159, 4);
+    text-align: center;
+}
+p{
+    color: aliceblue;
+    
+}
+h1{
+    color: rgb(32, 131, 5);
+    text-align: center;
+}
+
+ins{
+    color: rgb(214, 106, 241);
+}
+
+.Direccionp1{
+    color: rgb(209, 203, 24);
+}
+
