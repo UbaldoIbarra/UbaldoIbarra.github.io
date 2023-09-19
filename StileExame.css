@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(185, 184, 183);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+p{
+ text-align: center;
+}
+
+h1{
+    text-align: center;
+ background-color: blue;
+}
+
+.white{
+    background-color: aliceblue;
+    text-align: left;
+}
+.textend{
+    background-color: blue;
+    text-align: center;
+    
+}
+a{
+color: rgb(206, 246, 4);
+}
