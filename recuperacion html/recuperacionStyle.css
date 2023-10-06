@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(44, 49, 49);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: aliceblue;
+}
+
+h1{
+    color: yellowgreen;
+    text-align: right;
+}
+a{
+    color: turquoise;
+}
+
+.imagen{
+    text-align: right;
+}
+.salto{
+    background-color: aliceblue;
+}
+.color{
+    color: rgb(246, 182, 4);
+}
+
+.col{
+    color: hotpink;
+}
